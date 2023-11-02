@@ -1,5 +1,5 @@
 # re-search
-Re-Search project - an efficient personalized search engine
+Re-Search project - an efficient personalized open source search engine
 
 
 *How we can become less dependent on commercial companies that handle the
