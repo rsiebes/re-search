@@ -23,7 +23,10 @@ his/her life. If we could kind of 'predict'/cluster this likely fraction
 and store this in a Peer-to-Peer fashion (where each
 
 user of the p2p search-engine infrastructure also hosts a part of the index for
-other people, anonymously), we might get close to, or even beat the performance of 
+other people, anonymously), via software developed and shared as an Open Source 
+transparent code-base with flexible
+extensions for the user interface, catering various types of users (e.g. journalists
+and scientists), we might get close to, or even beat the performance of 
 commercial search engines.
 
 
