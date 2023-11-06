@@ -50,3 +50,11 @@ Since it is open source, with an active user - and - developer base, it
 could be worthwhile to dive into the code and find out a way to achieve
 anonymous collaborative filtering with content (ie website)
 recommendations for indexing based on the search history of each user.
+
+Master IS project proposals
+ 
+-  Re-Search project: Are you happy with Google search? What gets indexed and when, and for which queries it is matched?
+-  Re-Search project: Are you happy with Google search? Who sees what? User profile characteristics vs anonymous results.
+- Re-Search project: Are you happy with Google search? Re-PageRank, backward engineer the weights?
+- Re-Search project: Are you happy with Google search? Where does knowledge in structured data come from?
+- Re-Search project: Are you happy with Google search? LLMs vs Q&A, who knows what?
